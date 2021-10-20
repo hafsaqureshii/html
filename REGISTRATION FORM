@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>
+        Student registration Form
+    </p>
+    <form action="">
+        <p>FIRST NAME
+            <input type="text" size="30" maxlength="30">
+        </p>
+        <p>LAST NAME
+            <input type="text" size="30" maxlength="30">
+        </p>
+        <label form="username">DATE OF BIRTH:</label>
+        <input type="data" name="daye of birth">
+        <p>Email ID:
+            <input type="text">
+        </p>
+        <p>
+            GENDER:<br>
+            <input type="ratio" name="gender" value="Male"/>Male
+            <input type="ratio" name="gender" value="Female"/>Female
+        </p>
+
+        <p>
+            ADDRESS:
+        </p>
+        <P>
+            <textarea CLS="40" rows="5"></textarea>
+        </P>
+        <p>CITY:
+            <input type="text" size="15" maxlength="30">
+        </p>
+        <p>PIN CODE:
+            <input type="text" size="10" maxlength="6">
+        </p>
+        <p>STATE:
+            <input type="text" size="20" maxlength="30">
+        </p>
+
+        
+
+    </form>
+</body>
+</html>
