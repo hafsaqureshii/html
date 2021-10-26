@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+*{
+    color: rgb(201, 191, 216) ;
+    text-align: center;
+}
+html {    
+    background: url('https://www.oecd.org/media/oecdorg/directorates/directorateforsciencetechnologyandindustry/com/STIO-2021-slide.png');
+    background-size: cover;
+}
+button{
+    padding: 5px 30px;
+    background-color: transparent
+}
